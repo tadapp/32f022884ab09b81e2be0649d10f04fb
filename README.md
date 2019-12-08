@@ -1,0 +1,2 @@
+# 32f022884ab09b81e2be0649d10f04fb
+App id A9F79-49E54-01A99-CE4DC-7459A, version name - дом
